@@ -1,6 +1,6 @@
 #  Portfolio
 
-This is pretty much all the projects I plan to accumulate and do as practice to gain experience on my journey to learn.
+This is pretty much all the projects I plan to do as practice to learn more and gain experience.
 
 Add me on [LinkedIn](https://www.linkedin.com/in/vuongnguyen96/) if you're interested and have any questions or if you just want to chat!
 
