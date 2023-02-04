@@ -6,7 +6,6 @@ Add me on [LinkedIn](https://www.linkedin.com/in/vuongnguyen96/) if you're inter
 
 ##  Table of Contents
 - [SQL](#sql)
-- [Python](#python)
 - [Tableau](#tableau)
 
 _Click on the project's title (**bold** and coloured in Blue) to view my projects! Thank you! ☺️_
