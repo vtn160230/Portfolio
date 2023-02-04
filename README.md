@@ -1,6 +1,4 @@
-# 🗺 Portfolio Guide
-
-Welcome to my Portfolio!
+#  Portfolio
 
 This is pretty much all the projects I plan to accumulate and do as practice to gain experience on my journey to learn.
 
