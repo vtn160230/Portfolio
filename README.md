@@ -1,12 +1,12 @@
 # 🗺 Portfolio Guide
 
-Hi there! 🙋🏻‍♀️
+Welcome to my Portfolio!
 
-Welcome to my Portfolio Guide where I provide a walkthrough to all of my data analytics projects and courses.
+This is pretty much all the projects I plan to accumulate and do as practice to gain experience on my journey to learn.
 
-Add me on [LinkedIn](https://www.linkedin.com/in/vuongnguyen96/)!
+Add me on [LinkedIn](https://www.linkedin.com/in/vuongnguyen96/) if you're interested and have any questions or if you just want to chat!
 
-## 📚 Table of Contents
+##  Table of Contents
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
