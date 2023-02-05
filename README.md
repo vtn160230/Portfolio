@@ -17,6 +17,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description |
 |---|---|---|
+
 | [Dannys Diner](https://github.com/vtn160230/Dannys-Diner) | I analyze customer data from Danny's Diner to reveal various patterns that the customers may not realize they have. |
 
 ***
