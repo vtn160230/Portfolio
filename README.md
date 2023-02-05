@@ -15,9 +15,9 @@ Level: Intermediate SQL
 
 Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
 
-| Project Name | Description | SQL Functions |
+| Project Name | Description |
 |---|---|---|
-| [Dannys Diner](https://github.com/vtn160230/Dannys-Diner) | I analyze customer data from Danny's Diner to reveal various patterns that the customers may not realize they have |
+| [Dannys Diner](https://github.com/vtn160230/Dannys-Diner) | I analyze customer data from Danny's Diner to reveal various patterns that the customers may not realize they have. |
 
 ***
 
@@ -26,7 +26,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
-| [Blank]() |  | [Link](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
+| [Blank]() |  | [Link]() |
 
 
 ***
