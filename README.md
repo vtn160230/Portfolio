@@ -17,7 +17,7 @@ Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, run
 
 | Project Name | Description | SQL Functions |
 |---|---|---|
-| [Blank]() | I analyse and optimise marketing channels, measure and test website conversion performance and use data to understand impact of new product and campaign launches for an online retailer. | Advanced SQL |  
+| [Dannys Diner](https://github.com/vtn160230/Dannys-Diner) | I analyze customer data from Danny's Diner to reveal various patterns that the customers may not realize they have |
 
 ***
 
