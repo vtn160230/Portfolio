@@ -13,12 +13,9 @@ Add me on [LinkedIn](https://www.linkedin.com/in/vuongnguyen96/) if you're inter
 
 Level: Intermediate SQL
 
-Functions: Aggregations, Joins, CTEs, Window functions (aggregates, ranking, running total, partitioned averages), CASE WHEN statements, subqueries, nested subqueries, DATETIME functions, data type conversion, text and string manipulation
-
-| Project Name | Description |
+| Project Name | Description | SQL |
 |---|---|---|
-
-| [Dannys Diner](https://github.com/vtn160230/Dannys-Diner) | I analyze customer data from Danny's Diner to reveal various patterns that the customers may not realize they have. |
+| [Dannys Diner](https://github.com/vtn160230/Dannys-Diner) | I analyze customer data from Danny's Diner to reveal various patterns that the customers may not realize they have | Intermediate | 
 
 ***
 
