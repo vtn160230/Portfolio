@@ -16,6 +16,7 @@ Level: Intermediate SQL
 | Project Name | Description | SQL |
 |---|---|---|
 | [Dannys Diner](https://github.com/vtn160230/Dannys-Diner) | Week 1 of SQL Challenge: <br> I analyze customer data from Danny's Diner to reveal various patterns that the customers may not realize they have | Intermediate | 
+| [Pizza Runner](https://github.com/vtn160230/Pizza-Runner) | Week 2 of SQL Challenge: <br> I analyze and pull queries for a multitide of questions regarding pizza, metrics, runner and customer experience, ingredient optimization | Intermediate |
 
 ***
 
