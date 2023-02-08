@@ -25,7 +25,7 @@ Level: Intermediate SQL
 
 | Project Name | Description | Tableau Dashboard |
 |---|---|---|
-| [NFL Offense 2022 Week 9](https://github.com/vtn160230/NFL-2022-Offense-Week-9) | Just a quick project on the Offenses of each team of the NFL up until week 9 to show their points scored relative to their yardage gain per passing/rushing attempt | [Link](https://public.tableau.com/app/profile/tommy.nguyen2848/viz/bopook5/Dashboard1?publish=yes) |
+| [NFL Offense 2022 Week 9](https://github.com/vtn160230/NFL-2022-Offense-Week-9) | Just a quick project on the Offenses of each team of the NFL up until week 9 to show their points scored relative to their yardage gain per passing/rushing attempt | [Link](https://public.tableau.com/app/profile/tommy.nguyen2848/viz/bopook5/Dashboard1?publish=yes) (Work In Progress)|
 
 
 ***
