@@ -20,8 +20,8 @@ Add me on [LinkedIn](https://www.linkedin.com/in/vuongnguyen96/) if you're inter
 
 | Project Name | Description | SQL |
 |---|---|---|
-| [Dannys Diner](https://github.com/vtn160230/Dannys-Diner) | Week 1 of SQL Challenge: <br> I analyze customer data from Danny's Diner to reveal various patterns that the customers may not realize they have | Intermediate | 
-| [Pizza Runner](https://github.com/vtn160230/Pizza-Runner) | Week 2 of SQL Challenge: <br> I analyze and pull queries for a multitide of questions with different areas of focus regarding pizza, metrics, runner and customer experience, ingredient optimization | Intermediate |
+| [Dannys Diner](https://github.com/vtn160230/Dannys-Diner) | SQL Challenge: <br> I analyze customer data from Danny's Diner to reveal various patterns that the customers may not realize they have | Intermediate | 
+| [Pizza Runner](https://github.com/vtn160230/Pizza-Runner) | SQL Challenge: <br> I analyze and pull queries for a multitide of questions with different areas of focus regarding pizza, metrics, runner and customer experience, ingredient optimization | Intermediate |
 | [COVID-19 US and Vietnam](https://github.com/vtn160230/COVID-19) | Using a covid data set from 2020-2021, I analyze the data to find out a variety of things from contraction rates, to death percentages for the United States and Vietnam  | Intermediate |
 
 
