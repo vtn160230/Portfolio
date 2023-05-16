@@ -14,7 +14,7 @@ Add me on [LinkedIn](https://www.linkedin.com/in/vuongnguyen96/) if you're inter
 |---|---|---|
 | [Presidential Data](https://github.com/vtn160230/Presidential-Data) | Worksheet with data pertaining to the U.S. presidents. Involves data cleaning. | Beginner  | 
 | [Volume by Region Data](https://github.com/vtn160230/Volume-by-Region) | Case scenario of coworker sending a file and email with details requesting analysis on specific quarter. Involves data cleaning and analysis of data. | Intermediate |
-| [COVID-19 US and Vietnam](https://github.com/vtn160230/COVID-19) | Using a covid data set from 2020-2021, I analyze the data to find out a variety of things from contraction rates, to death percentages for the United States and Vietnam  | Intermediate |
+| [X](X) | Using a covid data set from 2020-2021, I analyze the data to find out a variety of things from contraction rates, to death percentages for the United States and Vietnam  | Intermediate |
 
 # SQL
 
